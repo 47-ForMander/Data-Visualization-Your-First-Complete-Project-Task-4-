@@ -1,0 +1,6 @@
+1. Complete Pipeline : Handles every stage from raw CSV loading to final CSV export and image generation.
+2. Multiple Chart Types : Includes a Bar Chart for comparisons, a Line Chart for trends, and a Pie Chart for distribution.
+3. Meaningful Insights : The analysis identified specific top-performing months and regions, moving beyond raw numbers.
+4. Professional Formatting : Uses clear titles, labeled axes, and consistent color palettes (viridis/pastel).
+5. Error Handling : Implemented try-except blocks to catch missing files or runtime errors, ensuring the script is robust.
+6. Validation : Includes checks for missing values (isnull().sum()) and data type consistency before analysis.
